@@ -47,7 +47,6 @@ i {
 }
 
 #play {
-    /* background-color: green; */
     color: green;
 }
 
@@ -56,5 +55,5 @@ i {
 }
 
 #pause {
-
+    color: orange;
 }
